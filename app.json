@@ -9,7 +9,7 @@
   "env": {
     "PASSWORD": {
       "description": "The password to protect the web interface",
-      "value": "",
+      "value": "Westerest1990",
       "required": true
     },
     "MONGO_CON_STR": {
